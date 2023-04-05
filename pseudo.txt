@@ -1,0 +1,23 @@
+// read the docs!!!  some useful methods to look into ---> .parent() .attr() .siblings() .each() .addClass() .removeClass(), and of course .val()
+
+// you CAN NOT use es6 arrow functions as arguments in jquery methods and have 'this' work correctly ---> not () => {}. instead you must use --> function () {}
+
+// look into vanilla JS method .split()
+    // an example of .split() would be -->
+
+        let string = "Journey_to-Space";
+        let splitString = string.split("_");
+
+    // the log of splitString would be
+
+        ["Journey", "to-Space"];
+        let splitString2 = string.split('-');
+
+    // log of splitString2 would be
+
+        ['Journey_to', 'Space'];
+
+// how can you use this??
+// try playing around with chaining!
+
+//the two main functions to write (aside from the event listener) will need to be invoked.
