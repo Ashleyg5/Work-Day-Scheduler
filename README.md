@@ -24,7 +24,7 @@ THEN the saved events persist``
 
 ## Description
  
-This is challenge 5 of the bootcamp. I took given HTML and CSS code and created the JavaScript portion of the website to make it work. The password generator a website where a user can go to generate a password with the criteria they like. When the user visits the webpage, they are shown a box with a "generate" button at the bottom of it. When clicked, the button brings up a prompt, asking the user to input the desired length of their new password (8-128). Once that is chosen, they are taken through a set of confirms that ask if they would like upper and lowercase letters, special characters, and numbers. Once they have chosen the desired criteria, their new password generates in the box. Through JavaScript, I added commentary explaining every step of the way. There is also a scriptP which was my note taking area featuring some steps taken to reach the desired function.
+This is challenge 5 of the bootcamp. I took given HTML, CSS, and JavaScript and altered it to meet the requirements. Using jQuery, I was able to link the current time with the hours on the work day scheduler. As the hours go by, user will see the background colors change on each hour row. Past events are grayed out, present events are red, anf future events are green. User will see the current date displayed at the top of the page to help plan out the day. As user inputs a task in the corresponding hour space and clicks the save button, that task will be saved to the local storage until removed. The task will display on the page, even when user exits page and returns. This was made functional using jQuery and local storage properties. 
 
 ## Usage
 [Work-Day-Scheduler](https://ashleyg5.github.io/Work-Day-Scheduler/)
