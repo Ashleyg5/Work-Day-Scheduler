@@ -29,7 +29,8 @@ This is challenge 5 of the bootcamp. I took given HTML and CSS code and created 
 ## Usage
 [Work-Day-Scheduler](https://ashleyg5.github.io/Work-Day-Scheduler/)
  
-![Password-Generator img](https://user-images.githubusercontent.com/118938942/228973078-52c78ee7-b379-410d-8b84-bac29bffe920.png)
+![Work-Day-Scheduler-Img](https://user-images.githubusercontent.com/118938942/230435927-ca012377-1980-41c1-ae84-2eb5ec4b49d2.png)
+
 
 
 ## Credits
