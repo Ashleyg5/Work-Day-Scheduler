@@ -5,8 +5,10 @@
 // look into vanilla JS method .split()
     // an example of .split() would be -->
 
-        let string = "Journey_to-Space";
+        let string = "Journey_to-Space"; 
         let splitString = string.split("_");
+
+!!! SPLITS STRING SO WHEN SOMEONE INPUTS MEETING TANYA   AT  A SPECIFIC TIME, IT WILL NATURALLY STRING AS MEETING-TANYA SO I NEED TO USE THE STRING SPLIT TO BREAK IT UP BY TARGETING THE -
 
     // the log of splitString would be
 
@@ -19,5 +21,7 @@
 
 // how can you use this??
 // try playing around with chaining!
+
+ !!!YOU CAN CHAIN THINGS TARGETING THE SAME VARIABLE BY DOING ...
 
 //the two main functions to write (aside from the event listener) will need to be invoked.
