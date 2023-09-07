@@ -24,7 +24,7 @@ THEN the saved events persist``
 
 ## Description
  
-This is challenge 5 of the bootcamp. I took given HTML, CSS, and JavaScript and altered it to meet the requirements. Using jQuery, I was able to link the current time with the hours on the work day scheduler. As the hours go by, user will see the background colors change on each hour row. Past events are grayed out, present events are red, and future events are green. User will see the current date displayed at the top of the page to help plan out the day. As user inputs a task in the corresponding hour space and clicks the save button, that task will be saved to the local storage until removed. The task will display on the page, even when user exits page and returns. This was made functional using jQuery and local storage properties. 
+I took the given HTML, CSS, and JavaScript and altered it to meet the requirements. Using jQuery, I was able to link the current time with the hours on the workday scheduler. As the hours go by, the user will see the background colors change on each hour row. Past events are grayed out, present events are red, and future events are green. Users will see the current date displayed at the top of the page to help plan out the day. As the user inputs a task in the corresponding hour space and clicks the save button, that task will be saved to the local storage until removed. The task will display on the page, even when user exits the page and returns. This was made functional using jQuery and local storage properties. 
 
 ## Usage
 [Work-Day-Scheduler](https://ashleyg5.github.io/Work-Day-Scheduler/)
